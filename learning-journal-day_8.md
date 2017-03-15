@@ -1,0 +1,3 @@
+#Learning Journal Day 8
+
+##Today is right in the middle of the second week of 201, and what people said is true, I am indeed feeling the pressure.  I stay quite late here in order to finish the labs, but for the most part i'm getting a lot of the same results in the code review the next day.  Today I learned how to use forms and events to customize my salmon cookie webpage in order to let a user add their very own cookie store.  This took a lot a staring at the books and some help from James, but when I got over those obstacles it made a lot more sense to me.  Big shout out to James and Alli for all the assistance today!
