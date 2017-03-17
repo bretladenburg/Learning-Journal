@@ -1,0 +1,3 @@
+#Learning Journal Day 10
+
+##Today I learned that pair programming can be quite effective and useful for designing a website.  Not only did the input of my partner seem welcomed, but it was great to get a different perspective on coding in general.  Also, for the lunch and learn we had a guest speaker talk about what our goals should be during a job hunt and what we do after we get the job.  It was great to have a real world example of how someone would go about becoming part of a team in the tech industry.  As always i'm still pretty worried about my css skills, I feel like I know more than what I did at the start of the week, but not having a TA readily available this weekend might be an issue for me.  Nevertheless I will try my best!
