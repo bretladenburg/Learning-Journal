@@ -1,0 +1,3 @@
+#Learning Journal Day 11
+
+##Today I learned that Bus Mall is going to be a hell of a project.  I kind of figured that this was going to happen because of this being the actual last teaching week of the course.  Things are starting to compound for me, trying to keep up with everything going on in class and get some form of sleep is starting to become harder and harder.  I find myself staying till 8 or 9pm most nights just because I know that I get less done when I go home.  I also want to use the TA's more, but at the same time I don't want to them to become a crutch for me.  It's gonna take a lot of work this week in order to get this project done, thats for sure.  
