@@ -1,0 +1,3 @@
+#Learning Journal Day 15
+
+##Today I learned about how everything was a lie, and jQuery is awesome.  I say that in jest of course, I know that I need to learn the basics of javascript in order to appreciate it, but the commmands that Nick was doing in class were awesome.  I also met with me team for project week and we discussed our problem domain and wireframing for our project.  I think that we can do a great job, but we have to be diligent and work efficiently together.  In addition to this, we also practiced merge conflicts within github in order to better prepare us for the experiences of working with a group on one singular project.  As far as next week goes, i'm a little scared and excited to move forward and see where this week will take us.
