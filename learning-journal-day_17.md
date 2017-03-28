@@ -1,0 +1,3 @@
+#Learning Journal Day 17
+
+##Today I learned the importance of pulling from the master to get updated files.  Luckily I caught the mistake early when I was beginning to work on my new branch for the day when I noticed that my page looked a lot different than the site Max had in his browser.  This was due to the fact that James had made some additions last night and I forgot to pull first before editing.  I'm glad I caught it in time or else that would have made some nasty merge conflicts for us later.  I also learned how to troubleshoot a error for my nav button.  I'm not really used to making multiple pages link together yet, so when I added an Id to one page for the nav button, I forgot to add it to the others.  Thats what the good old console is for!
