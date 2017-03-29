@@ -1,0 +1,3 @@
+#Learning Journal Day 18
+
+##Today I learned a lot about how to make code more DRY and how to locally store information that we needed throughout pages.  I did some of the html for the new custom theme box, and both James and I pair programmed to get the javascript and css working on it.  It took a while to get it done, but we got our stretch goal completed.  It definitely feels good to have it polished and working nice.  Tomorrow we are going to discuss possible gradient options and test our site with various laptops on the area we intend to present from in order to better understand possible bugs and troubleshoot them.
