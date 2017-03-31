@@ -1,0 +1,3 @@
+#Learning Journal Day 20
+
+##Today I learned a lot about what other people were doing with their weeks.  Today was demo day for the 201 class and my group as well as the others presented what they have been working on.  I learned that all the other groups had a lot of trouble with the css when they would merge their files together and that they had a lot of merge conflicts.  I think that the fact that we pair programmed for most of our time this week gave us the advantage of not running into these merge conflicts.  All in all, everybody did a really good job and everybody's pages looked very nice and clean.  Our group as well as the others were looking to add more to the project, but time constraints got in the way.
