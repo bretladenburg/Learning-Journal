@@ -1,0 +1,3 @@
+# LJ code301-day 1
+
+## Today I learned a lot about media queries and how they interact with the DOM.  I started my first partner program with Brandon and it took us about 2 hours to get the lab done.  We got probably about 90 percent of it done in about 20 minutes while we spent the better part of an hour trying to figure out why some hover interaction was messing up the look of our website.  We eventually asked Nick and he cleared up the issue.  I didn't know but apparently the display types of the hover for the media query and and the global hover tag have to be the same.  This was the main headache that we faced.  Other than that I think we got a good start on making our page responsive and mobile first.
