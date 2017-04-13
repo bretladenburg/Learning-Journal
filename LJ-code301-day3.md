@@ -1,0 +1,3 @@
+# Learning Journal Day 3
+
+## Today I learned quite a lot.  Everyday this week it seems that Nick is showing us new and sometimes frustrating ways to write code that is more simple.  JQuery is a big example of how vanilla javascript can be a pain to deal with sometimes.  On one hand, I understand what the specific JQuery methods do when Nick describes them in class, but actually applying them to my own code base can sometimes be overwhelming.  I also got introduced to abstract data structures today which gave me a look at the kind of logic that is in basic 401 python courses.  With the help of some TA's I eventually got what the problem was as they walked us through the thought processes behind this type of coding.
