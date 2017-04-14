@@ -1,0 +1,3 @@
+#Learning Journal Day 5
+
+## Today I learned a lot of different things.  Most of it was using Handlebars to create templates and populate them with object data.  During pair programming I paired with James S today, and it went very well.  Other than they copy and paste issue we had with the template class having its default display as none.  During lecture Nick walked us through a good chunk of the paired programming assignment for monday, it was pretty daunting and there was a lot of information thrown at my face.  I understand the individual pieces of what he's teaching but how they all connect to the big picture, and how they might tie into my own work still gives me some confusion.  I can only hope that with more practice I can do better.
