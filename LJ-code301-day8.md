@@ -1,0 +1,3 @@
+#Learning Journal Day 8
+
+##Today I learned about how to set up a beginning back end for a web page.  I worked with Chris in pair programming today, and it went pretty smoothly.  We tackled the TODO's by using the examples from class and I feel like i'm starting to get the concepts of these ajax requests and how they interact with our server.js file.  I also learned that duplicate files in your atom makes for a terrible time trying to debug anything.  I thought that I deleted the files but I guess when I deleted it in the terminal I didn't do the right command.  Nick had some fun times with live coding today as well, SLQ looks like a 'fun' learning experience.
